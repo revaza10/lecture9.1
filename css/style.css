@@ -1,0 +1,252 @@
+.flex-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.flex-container h1 {
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+    margin: 15px 70px 15px 15px;
+    color: #636060;
+
+}
+
+.owl {
+    margin: 0px 650px 0px 0px;
+}
+
+.one {
+    margin: 80px 0px 0px 40px;
+    display: inline-block;
+}
+
+.one h1 {
+    width: 235px;
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    margin: 30px 0px 0px 0px;
+
+
+}
+
+.one p {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+
+}
+
+.one h2 {
+    color: #010101;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32.2px;
+    text-align: left;
+
+}
+
+.two {
+    display: inline-block;
+    margin: 80px 0px 0px 100px;
+    vertical-align: top;
+
+}
+
+.two h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+
+}
+
+.two h2 {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.7px;
+    text-align: left;
+    color: #636060;
+    width: 286px;
+    margin: 10px 0px 0px 0px;
+}
+
+.three {
+    display: inline-block;
+    margin: 80px 0px 0px 40px;
+    vertical-align: top;
+}
+
+.three h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+}
+
+.three h2 {
+    margin: 10px 0px 0px 0px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    width: 259px;
+    color: #636060;
+
+}
+
+.four {
+    display: inline-block;
+    margin: 80px 0px 0px 40px;
+    vertical-align: top;
+}
+
+.four h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+}
+
+.four h2 {
+    margin: 10px 0px 0px 0px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    width: 259px;
+    color: #636060;
+
+}
+
+.five {
+    display: inline-block;
+    margin: 80px 0px 0px 380px;
+    vertical-align: top;
+}
+
+.five h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+}
+
+.five h2 {
+    margin: 10px 0px 0px 0px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    width: 286px;
+    color: #636060;
+}
+
+.six {
+    display: inline-block;
+    margin: 80px 0px 0px 40px;
+    vertical-align: top;
+}
+
+.six h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+}
+
+.six h2 {
+    margin: 10px 0px 0px 0px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    width: 286px;
+    color: #636060;
+}
+
+.seven {
+    display: inline-block;
+    margin: -315px 0px 0px 1040px;
+    vertical-align: top;
+}
+
+.seven h1 {
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    margin: 20px 0px 0px 0px;
+    color: #343232;
+
+}
+
+.seven h2 {
+    margin: 10px 0px 0px 0px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    width: 286px;
+    color: #636060;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.con {
+    display: block;
+    max-width: 100%;
+    width: 1540px;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Helvetica;
+    font-size: 79px;
+    font-weight: 700;
+    line-height: 90.84px;
+    text-align: left;
+    color: white;
+}
+
+.nana {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 400%);
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    color: white;
+}
